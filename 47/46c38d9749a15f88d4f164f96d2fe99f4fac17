@@ -1,0 +1,27 @@
+LICENSE
+  s_b5770ba419a427::t_ce793663952325 1-21
+README.md
+  s_b5770ba419a427::t_c24435f56a1087 1-100
+.cursor/rules/tool-poisoning-guard.mdc
+  s_b5770ba419a427::t_437096d3a17b85 1-44
+CLAUDE.md
+  s_b5770ba419a427::t_000341fc2d07a9 1-68
+codex/AGENTS.md
+  s_b5770ba419a427::t_ce71b152566899 1-36
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.2",
+  "base_commit_sha": "4746c38d9749a15f88d4f164f96d2fe99f4fac17",
+  "prompts": {},
+  "sessions": {
+    "s_b5770ba419a427": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "0d2e6d12-cee9-445d-9118-6ba500aa7942",
+        "model": "claude-sonnet-5"
+      },
+      "human_author": "GeeksikhSecurity <gurvinder@sayvainc.com>"
+    }
+  }
+}
