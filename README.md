@@ -1,5 +1,7 @@
 # ai-tool-poisoning-guard
 
+[![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/GeeksikhSecurity/ai-tool-poisoning-guard/badge)](https://securityscorecards.dev/viewer/?uri=github.com/GeeksikhSecurity/ai-tool-poisoning-guard) [![Security Policy](https://img.shields.io/badge/security-policy-blue)](https://github.com/GeeksikhSecurity/ai-tool-poisoning-guard/security/policy)
+
 > Minimum security-baseline rule for Claude Code, Codex, and Cursor. This free
 > rule closes a real gap in each tool's built-in review. Full ruleset +
 > implementation guide: **[Gumroad link — coming soon]**.
